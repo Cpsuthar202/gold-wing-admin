@@ -32,6 +32,7 @@
     "power_consumption": "150W",
     "air_throw_distance": "5 feet",
     "airflow_capacity": "1200 CFM",
+    "cooling_area": "150–700 sq. ft.",
     "warranty": "1 Year Manufacturer Warranty",
     "safety_features": ["Overload protection for motor", "Shockproof body for safe handling", "Auto shut-off feature for low water levels"],
     "user_friendly_features": ["Water overflow outlet to avoid spillage", "Ice chamber for extra cooling", "Cord winder for easy storage", "Compact design for space-saving storage"],
@@ -56,6 +57,7 @@
     "oscillating_louvers": "Manual adjustable louvers",
     "cooling_pad": "High-density eco-friendly Woodwool",
     "air_throw_distance": "10 feet",
+    "cooling_area": "150–700 sq. ft.",
     "warranty": "1 Year Manufacturer Warranty",
     "available_colors": ["Ivory", "Grey"],
     "inverter_compatible": false
@@ -77,6 +79,7 @@
     "oscillating_louvers": "Manual adjustable louvers",
     "cooling_pad": "High-density eco-friendly Woodwool",
     "air_throw_distance": "20 feet",
+    "cooling_area": "150–700 sq. ft.",
     "warranty": "1 Year Manufacturer Warranty",
     "available_colors": ["Ivory", "Grey"],
     "inverter_compatible": false
@@ -98,6 +101,7 @@
     "oscillating_louvers": "Manual adjustable louvers",
     "cooling_pad": "High-density eco-friendly Woodwool",
     "air_throw_distance": "30 feet",
+    "cooling_area": "150–700 sq. ft.",
     "warranty": "1 Year Manufacturer Warranty",
     "available_colors": ["Ivory", "Grey"],
     "inverter_compatible": false
@@ -115,6 +119,7 @@
     "motor": "C.G. Motor",
     "water_tank": "80 Liters ",
     "fan": "16' Climatizer Fan",
+    "cooling_area": "150–700 sq. ft.",
     "speed_control": "3 Speed Control: Low, Medium, High",
     "oscillating_louvers": "Manual adjustable louvers",
     "cooling_pad": "High-density eco-friendly Woodwool",
@@ -136,6 +141,7 @@
     "motor": "C.G. Motor",
     "water_tank": "90 Liters ",
     "fan": "16' Climatizer Fan",
+    "cooling_area": "150–700 sq. ft.",
     "speed_control": "3 Speed Control: Low, Medium, High",
     "oscillating_louvers": "Manual adjustable louvers",
     "cooling_pad": "High-density eco-friendly Woodwool",
@@ -161,6 +167,7 @@
     "oscillating_louvers": "Auto Swing",
     "cooling_pad": "High-density eco-friendly Woodwool",
     "air_throw_distance": "35 feet",
+    "cooling_area": "150–700 sq. ft.",
     "warranty": "1 Year Manufacturer Warranty",
     "available_colors": ["Ivory", "Grey"],
     "inverter_compatible": false
@@ -178,6 +185,7 @@
     "motor": "C.G. Motor",
     "water_tank": "100 Liters ",
     "fan": "16' Exhaust Fan",
+    "cooling_area": "150–700 sq. ft.",
     "speed_control": "3 Speed Control: Low, Medium, High",
     "oscillating_louvers": "Auto Swing",
     "cooling_pad": "High-density eco-friendly Woodwool",
@@ -203,6 +211,7 @@
     "oscillating_louvers": "Manual / Steel Jali",
     "cooling_pad": "Honeycomb",
     "air_throw_distance": "50 feet",
+    "cooling_area": "150–700 sq. ft.",
     "warranty": "1 Year Manufacturer Warranty",
     "available_colors": ["Grey"],
     "inverter_compatible": false

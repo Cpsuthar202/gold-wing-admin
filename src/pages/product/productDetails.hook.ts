@@ -29,6 +29,7 @@ export const useProductDetails = () => {
     power_consumption: productdata?.power_consumption,
     air_throw_distance: productdata?.air_throw_distance,
     airflow_capacity: productdata?.airflow_capacity,
+    cooling_area: productdata?.cooling_area,
     warranty: productdata?.warranty,
     inverter_compatible: productdata?.inverter_compatible ? "true" : "false",
   };

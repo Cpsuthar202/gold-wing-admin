@@ -16,6 +16,7 @@ export interface IProduct {
   power_consumption?: string;
   air_throw_distance?: string;
   airflow_capacity?: string;
+  cooling_area?: string;
   warranty: string;
   safety_features?: string[];
   user_friendly_features?: string[];

@@ -14,7 +14,7 @@ export default defineConfig({
     exclude: ["chunk-EWS7HTKY.js"],
   },
   server: {
-    port: Number(FRONTEND_PORT) || 3002,
+    port: Number(FRONTEND_PORT) || 3003,
     host: FRONTEND_HOST || "localhost",
   },
   build: {
